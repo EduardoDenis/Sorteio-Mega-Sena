@@ -14,7 +14,7 @@
         android:layout_marginTop="32dp"
         android:text="@string/title"
         android:textColor="@color/green"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
